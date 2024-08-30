@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Project ε](https://github.com/LordTsuki/Project-Black-Hats)
 
-- 🌱 I’m currently learning **Python to Data Analytics**
+- 🌱 I’m currently learning **Html/Css**
 
 - 👯 I’m looking to collaborate on **Web Development projects and Games**
 
-- 🤝 I’m looking for help with **get a work in a japanese enterprise**
+- 🤝 I’m looking for help with **get a work in Web Development**
 
 - 👨‍💻 All of my projects are available at [-----](-----)
 
-- 💬 Ask me about **C# for Unity**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **tcdelsan@outlook.com**
 
