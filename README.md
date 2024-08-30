@@ -32,8 +32,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@tsuki0luna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tsuki0luna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel-luna-20a847218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel luna" height="30" width="40" /></a>
-<a href="https://instagram.com/ga_tsuki" target="b[CV_-_Marcos_Paulo2024ATT.pdf](https://github.com/user-attachments/files/16822541/CV_-_Marcos_Paulo2024ATT.pdf)
-lank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ga_tsuki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcos-delgado-santos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel luna" height="30" width="40" /></a>
 </p>
