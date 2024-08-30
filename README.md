@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tsuki0luna" target="blank"><img src="https://img.shields.io/twitter/follow/tsuki0luna?logo=twitter&style=for-the-badge" alt="tsuki0luna" /></a> </p>
 
-- 🔭 I’m currently working on [Project ε](https://github.com/LordTsuki/Project-Black-Hats](https://github.com/LordTsuki/mne)
+- 🔭 I’m currently working on [Magic And Elements](https://github.com/LordTsuki/mne)
 
 - 🌱 I’m currently learning **Html/Css**
 
