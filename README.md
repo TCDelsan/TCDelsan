@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python to Data Analytics**
 
-- 👯 I’m looking to collaborate on **AI projects and Games**
+- 👯 I’m looking to collaborate on **Web Development projects and Games**
 
 - 🤝 I’m looking for help with **get a work in a japanese enterprise**
 
