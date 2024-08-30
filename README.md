@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Delgado</h1>
 <h3 align="center">A brazillian developer passionated by AI, Games and Coffee </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordtsuki&label=Profile%20views&color=yellow&style=for-the-badge" alt="lordtsuki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TCDelsan&label=Profile%20views&color=yellow&style=for-the-badge" alt="TCDelsan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TCDelsan&row=2&column=-1&theme=gruvbox&no-bg=true&rank=-SECRET" alt="TCDelsan" /></a> </p>
 
